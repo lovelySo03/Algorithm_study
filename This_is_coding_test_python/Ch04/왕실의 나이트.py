@@ -1,6 +1,5 @@
 # 왕실의 나이트
-# 내 코드
-
+# 책에 나온 코드 분석하기 
 def check(directx,directy,x,y,arr):
 
     for i in range(4):
