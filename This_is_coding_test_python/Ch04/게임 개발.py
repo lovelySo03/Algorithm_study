@@ -1,5 +1,5 @@
-import sys
-sys.stdin = open("input.txt", "r")
+#import sys
+#sys.stdin = open("input.txt", "r")
 
 # N, M을 공백을 기준으로 구분하여 입력받기
 n, m = map(int, input().split())
